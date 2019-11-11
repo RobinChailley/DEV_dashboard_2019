@@ -1,0 +1,44 @@
+{
+    " customer ": {
+        " host ": "10.101.53.35"
+    }
+    " server ": {
+        " current_time ": 1531680780,
+        " services ": [{
+            " name ": "intra_epitech",
+            " widgets ": [{
+                " name ": "profile",
+                " description ": "Display all information on the current user",
+                " params ": [{
+                    " name ": "profile_picture",
+                    " type ": "string"
+                }{
+                    " name ": "name",
+                    " type ": "string"
+                }{
+                    " name ": "bachelor",
+                    " type ": "string"
+                }{
+                    " name ": "GPA",
+                    " type ": "float"
+                }{
+                    " name ": "log_netsoul",
+                    " type ": "integer"
+                }]
+            }]
+        },{
+            " name ": " rss " ,
+            " widgets ": [{
+                " name ": " article_list " ,
+                " description ": " Displaying the list of the last articles " ,
+                " params ": [{
+                    " name ": " link " ,
+                    " type ": " string "
+                }{
+                    " name ": " number " ,
+                    " type ": " integer "
+                }]
+            }]
+        }]
+    }
+}

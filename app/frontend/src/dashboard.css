@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'FiraSans';
+  src: local('Mark-Black'), url(./Assets/Fonts/Mark-Black.ttf) format('truetype');
+  src: local('Mark-Bold'), url(./Assets/Fonts/Mark-Bold.ttf) format('truetype');
+  src: local('Mark-Book'), url(./Assets/Fonts/Mark-Book.ttf) format('truetype');
+  src: local('Mark-Heavy'), url(./Assets/Fonts/Mark-Heavy.ttf) format('truetype');
+  src: local('Mark-Medium'), url(./Assets/Fonts/Mark-Medium.ttf) format('truetype');
+  src: local('Mark-Regular'), url(./Assets/Fonts/Mark-Regular.ttf) format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: Mark-Regular, "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  font-family: Mark-Regular;
+  color: #6D7679;
+}
+
+h1 {
+  font-family: Mark-Black;
+  color: #2B2A35;
+}
+
+h2 {
+  font-family: Mark-Black;
+  color: #2B2A35;
+}
+
+h3 {
+  font-family: Mark-Black;
+  color: #2B2A35;
+}
+
+.nav-link {
+  font-family: Mark-Regular;
+  color: #2B2A35;
+}
+
+span {
+  display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #21232A !important;
+  }
+
+  .dropdown-menu {
+    background-color: #21232A !important;
+  }
+
+  .dark {
+    color: white !important;
+  }
+
+  p {
+    color: #9CA0A3 !important;
+  }
+
+  .navLink {
+    color: white; 
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    color: white !important;
+  }
+
+  h1 h2 h3 h4 h5 h6 {
+    color: white !important;
+  }
+
+  .container-widget {
+    background-color: #21232A !important;
+  }
+
+  .img-dark {
+    filter: invert(1) hue-rotate(.5turn);
+  }
+
+  .username-nav {
+    color: white;
+  }
+
+  .plant-layout {
+    background-color: #2B3139 !important;
+  }
+}

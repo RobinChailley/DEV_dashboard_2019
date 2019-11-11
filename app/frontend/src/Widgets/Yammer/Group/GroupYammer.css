@@ -1,0 +1,39 @@
+.photo-group-yammer {
+    margin-left: 25%;
+    margin-top: 30px;
+    width: 130px;
+}
+
+.group-name-yammer {
+    margin-top: 20px;
+    font-family: Mark-Medium;
+    text-align: center;
+}
+
+.icons-yammer-group {
+    margin-left: 37%;
+}
+
+.members-group-yammer {
+    font-family: Mark-Medium;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.members-group-yammer:after {
+    text-align: center;
+    content: "membres";
+    font-size: 12px;
+}
+
+.notifications-group-yammer {
+    font-family: Mark-Medium;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.notifications-group-yammer:after {
+    /*content: "Nouvelles conversations";*/
+    text-align: right !important;
+    font-size: 12px;
+}

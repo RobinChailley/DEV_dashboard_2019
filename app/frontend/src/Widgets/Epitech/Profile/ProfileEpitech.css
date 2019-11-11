@@ -1,0 +1,70 @@
+.img-profile-epitech {
+    margin-top: 30px;
+    border-radius: 50%;
+}
+
+.userName-profile-epitech {
+    font-family: Mark-Bold;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.scolarity-profile-epitech {
+    text-align: center;
+}
+
+.container-value-profil-epitech {
+    margin-top: 20px;
+}
+
+.icon-profile-epitech {
+    margin-left: 37%;
+}
+
+.icon-netsoul-profile-epitech {
+    margin-left: 37%;
+}
+
+.value-gpa-profile-epitech {
+    text-align: center;
+}
+
+.value-gpa-profile-epitech:after {
+    content: "GPA";
+    font-size: 10px;
+}
+
+.value-netsoul-profile-epitech {
+    text-align: center;
+}
+
+.value-netsoul-profile-epitech:after {
+    content: "H";
+    font-size: 10px;
+}
+
+@media screen and (max-width: 576px) {
+    .icon-profile-epitech {
+        margin-left: 40%;
+        display: inline-block;
+    }
+    
+    .value-gpa-profile-epitech {
+        margin-left: 5px;
+        margin-top: 5px;
+        text-align: left;
+        display: inline-block;
+    }
+
+    .icon-netsoul-profile-epitech {
+        margin-left: 20%;
+        display: inline-block;
+    }
+
+    .value-netsoul-profile-epitech {
+        margin-left: 5px;
+        margin-top: 5px;
+        text-align: left;
+        display: inline-block;
+    }
+}

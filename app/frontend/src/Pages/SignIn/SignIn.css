@@ -1,0 +1,46 @@
+.container-signin {
+    height: 895px;
+    background: url("../../Assets/Images/Login-image.png");
+    background-position: bottom;
+}
+
+.logo-signin-dashboard {
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 5%;
+}
+
+.title-signin {
+    text-align: center;
+}
+
+.slogan-signin {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.container-form-signin {
+    margin-top: 40px;
+}
+
+.btn-submit {
+    margin-top: 20px;
+    margin-left: 30%;
+    padding: 10px 50px 10px 50px!important;
+}
+
+.form-control {
+    height: 50px !important;
+    border-radius: 20px !important;
+}
+
+
+.go-to-login:hover {
+    color: #1191FF !important;
+}
+
+.go-to-login {
+    margin-left: 28%;
+    cursor: pointer;
+    color: #6D7679 !important;
+}

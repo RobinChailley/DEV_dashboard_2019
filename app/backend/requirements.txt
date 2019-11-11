@@ -1,0 +1,9 @@
+requests
+mongoengine
+flask
+flask-restful
+flask_pymongo
+dnspython
+passlib
+pyjwt
+flask_cors

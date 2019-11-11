@@ -1,0 +1,15 @@
+version: "3"
+services:
+    server:
+        build: .
+        ports:
+            - "8080:80"
+        networks:
+            - api
+    db:
+        image: mongo
+        restart: always
+        networks:
+            - api
+networks:
+    api:

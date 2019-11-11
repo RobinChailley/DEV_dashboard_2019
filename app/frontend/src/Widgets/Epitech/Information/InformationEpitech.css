@@ -1,0 +1,16 @@
+.img-information-epitech {
+    margin-top: 30px;
+    width: 90%;
+}
+
+.value-information-epitech {
+    font-family: Mark-Bold !important;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: -3%;
+}
+
+.value-unit-information-epitech {
+    text-align: center;
+    margin-left: -3%;
+}

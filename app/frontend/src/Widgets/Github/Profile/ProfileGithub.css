@@ -1,0 +1,42 @@
+.img-profile-github {
+    border-radius: 10px;
+    margin-top: 50px;
+    width: 130px !important;
+}
+
+.name-profile-github {
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: Mark-Medium;
+}
+
+.username-profile-github {
+    margin-top: -5px;
+}
+
+.icon-start-profile-github {
+    display: inline-block !important;
+}
+
+.value-follower-profile-gihub::after {
+    display: inline-flex !important;
+    content: "Followers";
+}
+
+.container-repository-profile-github {
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 12px;
+    margin-left: -40px;
+    width: 250px !important;
+    width: 100%;
+    height: 50px;
+    background-color: #F9F9FD;
+    margin-top: 20px;
+}
+
+@media (prefers-color-scheme: dark) {
+    .container-repository-profile-github {
+        background-color: #373e48;
+    }
+}

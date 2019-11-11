@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <g id="Groupe_9" data-name="Groupe 9" transform="translate(-581 -284)">
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="36" cy="36" r="36" transform="translate(581 284)" fill="#fff2dc" opacity="0.428"/>
+    <g id="ic_coin" transform="translate(600.935 303.77)">
+      <g id="Groupe_6" data-name="Groupe 6" transform="translate(0 0)">
+        <g id="Groupe_5" data-name="Groupe 5">
+          <path id="Tracé_18" data-name="Tracé 18" d="M26.815,4.6A15.708,15.708,0,0,0,0,15.716,15.706,15.706,0,0,0,26.815,26.829a15.722,15.722,0,0,0,0-22.226ZM15.708,29.591A13.874,13.874,0,1,1,29.575,15.716,13.886,13.886,0,0,1,15.708,29.591Z" transform="translate(0 0)" fill="#eba443" stroke="#eba443" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Groupe_8" data-name="Groupe 8" transform="translate(10.722 5.678)">
+        <g id="Groupe_7" data-name="Groupe 7">
+          <path id="Tracé_19" data-name="Tracé 19" d="M182.73,105.5h-2.021a2.088,2.088,0,1,1,0-4.176h4.042a.943.943,0,1,0,0-1.887h-2.088V97.344a.943.943,0,0,0-1.887,0v2.088h-.067a3.975,3.975,0,1,0,0,7.95h2.021a2.088,2.088,0,0,1,0,4.176h-4.042a.943.943,0,0,0,0,1.887h2.088v2.088a.943.943,0,1,0,1.887,0v-2.088h.067a3.975,3.975,0,0,0,0-7.95Z" transform="translate(-176.734 -96.401)" fill="#eba443" stroke="#eba443" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

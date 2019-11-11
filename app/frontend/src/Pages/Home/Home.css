@@ -1,0 +1,11 @@
+.plant-layout {
+    -webkit-box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.10);
+    -moz-box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.10);
+    box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.10);
+    border-radius: 7px;
+    background-color: white;
+    overflow-y: scroll;
+}
+
+.DraggerLayout {
+}

@@ -1,0 +1,16 @@
+.img-profile-linkedin {
+    width: 120px;
+    margin-top: 20px;
+}
+
+.userName-profile-linkedin {
+    font-family: Mark-Medium;
+    margin-top: 20px;
+    margin-left: 10px !important;
+    text-align: center;
+}
+
+.country-profile-linkedin {
+    text-align: center;
+    margin-left: 10px !important;
+}

@@ -1,0 +1,16 @@
+.container-list-mail-yammer {
+    border-radius: 10px;
+    margin-top: 25px;
+    background-color: #F9F9FD;
+}
+
+.img-progile-list-mail-yammer {
+    margin-top: 15px;
+    width: 42px;
+}
+
+@media (prefers-color-scheme: dark) {
+    .container-list-mail-yammer {
+        background-color: #373e48;
+    }
+}

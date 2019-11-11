@@ -1,0 +1,30 @@
+.author-poste-linkedin-container {
+    margin-top: 20px;
+}
+
+.img-author-poste-linkedin {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+
+.title-author-poste-linkedin {
+    color: #2B2F33;
+    font-family: Mark-Medium;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.img-poste-linkedin {
+    margin-top: 15px;
+    width: 100%;
+    height: 300px;
+}
+
+.description-poste-linkedin {
+    margin-top: 15px;
+}
+
+.img-like-poste-linkedin {
+    margin-top: 20px;
+}

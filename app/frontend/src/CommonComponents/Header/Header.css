@@ -1,0 +1,27 @@
+.navLink {
+    margin-left: 50px;
+    color: #2B2F33; 
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #2B2F33;
+}
+
+.navbar-light {
+    margin-top: 20px;;
+}
+
+.btn-outline-primary {
+    border-color: #1191FF !important;
+}
+
+.btn-outline-primary:hover {
+    background-color: #1191FF !important;
+}
+
+@media (max-width:576px) {
+    .navLink {
+        margin-left: 0px;
+    }
+}
+
